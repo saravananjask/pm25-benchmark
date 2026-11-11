@@ -1,0 +1,801 @@
+dataset,horizon,fold,group,model,params,val_MAE
+beijing_multisite,1,0,Aotizhongxin,ridge_tuned,{'alpha': 10.0},10.865
+beijing_multisite,1,0,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.886
+beijing_multisite,1,0,Changping,ridge_tuned,{'alpha': 10.0},10.963
+beijing_multisite,1,0,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.694
+beijing_multisite,1,0,Dingling,ridge_tuned,{'alpha': 10.0},9.28
+beijing_multisite,1,0,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",9.259
+beijing_multisite,1,0,Dongsi,ridge_tuned,{'alpha': 10.0},10.845
+beijing_multisite,1,0,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.043
+beijing_multisite,1,0,Guanyuan,ridge_tuned,{'alpha': 10.0},10.205
+beijing_multisite,1,0,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.369
+beijing_multisite,1,0,Gucheng,ridge_tuned,{'alpha': 10.0},11.104
+beijing_multisite,1,0,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.015
+beijing_multisite,1,0,Huairou,ridge_tuned,{'alpha': 10.0},9.425
+beijing_multisite,1,0,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",9.261
+beijing_multisite,1,0,Nongzhanguan,ridge_tuned,{'alpha': 10.0},11.014
+beijing_multisite,1,0,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.885
+beijing_multisite,1,0,Shunyi,ridge_tuned,{'alpha': 10.0},11.41
+beijing_multisite,1,0,Shunyi,forest_tuned,"{'min_samples_leaf': 5, 'max_features': 1.0}",11.102
+beijing_multisite,1,0,Tiantan,ridge_tuned,{'alpha': 10.0},10.557
+beijing_multisite,1,0,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.694
+beijing_multisite,1,0,Wanliu,ridge_tuned,{'alpha': 10.0},10.707
+beijing_multisite,1,0,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.535
+beijing_multisite,1,0,Wanshouxigong,ridge_tuned,{'alpha': 10.0},10.88
+beijing_multisite,1,0,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.263
+beijing_multisite,1,1,Aotizhongxin,ridge_tuned,{'alpha': 10.0},11.505
+beijing_multisite,1,1,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.501
+beijing_multisite,1,1,Changping,ridge_tuned,{'alpha': 100.0},12.053
+beijing_multisite,1,1,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.824
+beijing_multisite,1,1,Dingling,ridge_tuned,{'alpha': 10.0},9.836
+beijing_multisite,1,1,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",9.828
+beijing_multisite,1,1,Dongsi,ridge_tuned,{'alpha': 10.0},11.822
+beijing_multisite,1,1,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.103
+beijing_multisite,1,1,Guanyuan,ridge_tuned,{'alpha': 10.0},11.005
+beijing_multisite,1,1,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.322
+beijing_multisite,1,1,Gucheng,ridge_tuned,{'alpha': 10.0},11.713
+beijing_multisite,1,1,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.727
+beijing_multisite,1,1,Huairou,ridge_tuned,{'alpha': 10.0},10.052
+beijing_multisite,1,1,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.059
+beijing_multisite,1,1,Nongzhanguan,ridge_tuned,{'alpha': 10.0},11.943
+beijing_multisite,1,1,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.206
+beijing_multisite,1,1,Shunyi,ridge_tuned,{'alpha': 10.0},11.837
+beijing_multisite,1,1,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.519
+beijing_multisite,1,1,Tiantan,ridge_tuned,{'alpha': 10.0},11.325
+beijing_multisite,1,1,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.472
+beijing_multisite,1,1,Wanliu,ridge_tuned,{'alpha': 10.0},11.907
+beijing_multisite,1,1,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.588
+beijing_multisite,1,1,Wanshouxigong,ridge_tuned,{'alpha': 10.0},11.293
+beijing_multisite,1,1,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.802
+beijing_multisite,1,2,Aotizhongxin,ridge_tuned,{'alpha': 10.0},10.785
+beijing_multisite,1,2,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.664
+beijing_multisite,1,2,Changping,ridge_tuned,{'alpha': 10.0},11.112
+beijing_multisite,1,2,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.841
+beijing_multisite,1,2,Dingling,ridge_tuned,{'alpha': 10.0},9.049
+beijing_multisite,1,2,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",8.902
+beijing_multisite,1,2,Dongsi,ridge_tuned,{'alpha': 10.0},10.902
+beijing_multisite,1,2,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.086
+beijing_multisite,1,2,Guanyuan,ridge_tuned,{'alpha': 10.0},10.286
+beijing_multisite,1,2,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.377
+beijing_multisite,1,2,Gucheng,ridge_tuned,{'alpha': 10.0},10.889
+beijing_multisite,1,2,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.796
+beijing_multisite,1,2,Huairou,ridge_tuned,{'alpha': 10.0},9.363
+beijing_multisite,1,2,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",9.224
+beijing_multisite,1,2,Nongzhanguan,ridge_tuned,{'alpha': 10.0},11.087
+beijing_multisite,1,2,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 5, 'max_features': 1.0}",11.162
+beijing_multisite,1,2,Shunyi,ridge_tuned,{'alpha': 10.0},11.007
+beijing_multisite,1,2,Shunyi,forest_tuned,"{'min_samples_leaf': 5, 'max_features': 1.0}",10.556
+beijing_multisite,1,2,Tiantan,ridge_tuned,{'alpha': 10.0},10.555
+beijing_multisite,1,2,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.686
+beijing_multisite,1,2,Wanliu,ridge_tuned,{'alpha': 10.0},11.054
+beijing_multisite,1,2,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.724
+beijing_multisite,1,2,Wanshouxigong,ridge_tuned,{'alpha': 10.0},10.955
+beijing_multisite,1,2,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.379
+beijing_multisite,1,3,Aotizhongxin,ridge_tuned,{'alpha': 10.0},10.933
+beijing_multisite,1,3,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.946
+beijing_multisite,1,3,Changping,ridge_tuned,{'alpha': 10.0},11.053
+beijing_multisite,1,3,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.865
+beijing_multisite,1,3,Dingling,ridge_tuned,{'alpha': 10.0},9.246
+beijing_multisite,1,3,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",9.226
+beijing_multisite,1,3,Dongsi,ridge_tuned,{'alpha': 10.0},10.813
+beijing_multisite,1,3,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.048
+beijing_multisite,1,3,Guanyuan,ridge_tuned,{'alpha': 10.0},10.22
+beijing_multisite,1,3,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.393
+beijing_multisite,1,3,Gucheng,ridge_tuned,{'alpha': 10.0},11.024
+beijing_multisite,1,3,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.967
+beijing_multisite,1,3,Huairou,ridge_tuned,{'alpha': 10.0},9.442
+beijing_multisite,1,3,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",9.327
+beijing_multisite,1,3,Nongzhanguan,ridge_tuned,{'alpha': 10.0},11.054
+beijing_multisite,1,3,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.054
+beijing_multisite,1,3,Shunyi,ridge_tuned,{'alpha': 10.0},11.309
+beijing_multisite,1,3,Shunyi,forest_tuned,"{'min_samples_leaf': 5, 'max_features': 1.0}",10.954
+beijing_multisite,1,3,Tiantan,ridge_tuned,{'alpha': 10.0},10.608
+beijing_multisite,1,3,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.856
+beijing_multisite,1,3,Wanliu,ridge_tuned,{'alpha': 10.0},10.733
+beijing_multisite,1,3,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.602
+beijing_multisite,1,3,Wanshouxigong,ridge_tuned,{'alpha': 10.0},10.95
+beijing_multisite,1,3,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",11.401
+beijing_multisite,1,4,Aotizhongxin,ridge_tuned,{'alpha': 10.0},10.392
+beijing_multisite,1,4,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.358
+beijing_multisite,1,4,Changping,ridge_tuned,{'alpha': 10.0},10.392
+beijing_multisite,1,4,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.093
+beijing_multisite,1,4,Dingling,ridge_tuned,{'alpha': 10.0},8.975
+beijing_multisite,1,4,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",8.922
+beijing_multisite,1,4,Dongsi,ridge_tuned,{'alpha': 10.0},10.433
+beijing_multisite,1,4,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.476
+beijing_multisite,1,4,Guanyuan,ridge_tuned,{'alpha': 10.0},9.88
+beijing_multisite,1,4,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",9.858
+beijing_multisite,1,4,Gucheng,ridge_tuned,{'alpha': 10.0},10.673
+beijing_multisite,1,4,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.45
+beijing_multisite,1,4,Huairou,ridge_tuned,{'alpha': 10.0},9.032
+beijing_multisite,1,4,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",8.804
+beijing_multisite,1,4,Nongzhanguan,ridge_tuned,{'alpha': 10.0},10.578
+beijing_multisite,1,4,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.442
+beijing_multisite,1,4,Shunyi,ridge_tuned,{'alpha': 10.0},10.823
+beijing_multisite,1,4,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.443
+beijing_multisite,1,4,Tiantan,ridge_tuned,{'alpha': 10.0},10.311
+beijing_multisite,1,4,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.419
+beijing_multisite,1,4,Wanliu,ridge_tuned,{'alpha': 10.0},10.231
+beijing_multisite,1,4,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.042
+beijing_multisite,1,4,Wanshouxigong,ridge_tuned,{'alpha': 10.0},10.596
+beijing_multisite,1,4,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.975
+beijing_multisite,6,0,Aotizhongxin,ridge_tuned,{'alpha': 100.0},33.804
+beijing_multisite,6,0,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",33.21
+beijing_multisite,6,0,Changping,ridge_tuned,{'alpha': 100.0},28.992
+beijing_multisite,6,0,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",28.331
+beijing_multisite,6,0,Dingling,ridge_tuned,{'alpha': 100.0},27.119
+beijing_multisite,6,0,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",26.655
+beijing_multisite,6,0,Dongsi,ridge_tuned,{'alpha': 100.0},35.306
+beijing_multisite,6,0,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.624
+beijing_multisite,6,0,Guanyuan,ridge_tuned,{'alpha': 100.0},32.225
+beijing_multisite,6,0,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",31.742
+beijing_multisite,6,0,Gucheng,ridge_tuned,{'alpha': 10.0},32.397
+beijing_multisite,6,0,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.596
+beijing_multisite,6,0,Huairou,ridge_tuned,{'alpha': 100.0},28.015
+beijing_multisite,6,0,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",27.058
+beijing_multisite,6,0,Nongzhanguan,ridge_tuned,{'alpha': 100.0},35.483
+beijing_multisite,6,0,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.873
+beijing_multisite,6,0,Shunyi,ridge_tuned,{'alpha': 100.0},33.977
+beijing_multisite,6,0,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.638
+beijing_multisite,6,0,Tiantan,ridge_tuned,{'alpha': 100.0},32.936
+beijing_multisite,6,0,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.438
+beijing_multisite,6,0,Wanliu,ridge_tuned,{'alpha': 100.0},32.217
+beijing_multisite,6,0,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.26
+beijing_multisite,6,0,Wanshouxigong,ridge_tuned,{'alpha': 100.0},33.86
+beijing_multisite,6,0,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",33.372
+beijing_multisite,6,1,Aotizhongxin,ridge_tuned,{'alpha': 100.0},35.442
+beijing_multisite,6,1,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",35.404
+beijing_multisite,6,1,Changping,ridge_tuned,{'alpha': 100.0},31.543
+beijing_multisite,6,1,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",31.197
+beijing_multisite,6,1,Dingling,ridge_tuned,{'alpha': 100.0},28.66
+beijing_multisite,6,1,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",28.977
+beijing_multisite,6,1,Dongsi,ridge_tuned,{'alpha': 100.0},37.142
+beijing_multisite,6,1,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",37.262
+beijing_multisite,6,1,Guanyuan,ridge_tuned,{'alpha': 100.0},34.835
+beijing_multisite,6,1,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.323
+beijing_multisite,6,1,Gucheng,ridge_tuned,{'alpha': 10.0},34.099
+beijing_multisite,6,1,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.328
+beijing_multisite,6,1,Huairou,ridge_tuned,{'alpha': 100.0},29.831
+beijing_multisite,6,1,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",29.61
+beijing_multisite,6,1,Nongzhanguan,ridge_tuned,{'alpha': 10.0},37.961
+beijing_multisite,6,1,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",38.252
+beijing_multisite,6,1,Shunyi,ridge_tuned,{'alpha': 100.0},34.925
+beijing_multisite,6,1,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",35.363
+beijing_multisite,6,1,Tiantan,ridge_tuned,{'alpha': 100.0},34.99
+beijing_multisite,6,1,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.841
+beijing_multisite,6,1,Wanliu,ridge_tuned,{'alpha': 100.0},35.846
+beijing_multisite,6,1,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",35.657
+beijing_multisite,6,1,Wanshouxigong,ridge_tuned,{'alpha': 100.0},36.309
+beijing_multisite,6,1,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",36.168
+beijing_multisite,6,2,Aotizhongxin,ridge_tuned,{'alpha': 100.0},32.853
+beijing_multisite,6,2,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.314
+beijing_multisite,6,2,Changping,ridge_tuned,{'alpha': 100.0},29.094
+beijing_multisite,6,2,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",28.537
+beijing_multisite,6,2,Dingling,ridge_tuned,{'alpha': 100.0},26.345
+beijing_multisite,6,2,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",26.054
+beijing_multisite,6,2,Dongsi,ridge_tuned,{'alpha': 100.0},34.316
+beijing_multisite,6,2,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.214
+beijing_multisite,6,2,Guanyuan,ridge_tuned,{'alpha': 100.0},31.85
+beijing_multisite,6,2,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",31.264
+beijing_multisite,6,2,Gucheng,ridge_tuned,{'alpha': 10.0},31.337
+beijing_multisite,6,2,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",31.22
+beijing_multisite,6,2,Huairou,ridge_tuned,{'alpha': 100.0},27.21
+beijing_multisite,6,2,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",26.74
+beijing_multisite,6,2,Nongzhanguan,ridge_tuned,{'alpha': 100.0},34.868
+beijing_multisite,6,2,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.628
+beijing_multisite,6,2,Shunyi,ridge_tuned,{'alpha': 100.0},32.416
+beijing_multisite,6,2,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",32.119
+beijing_multisite,6,2,Tiantan,ridge_tuned,{'alpha': 100.0},32.311
+beijing_multisite,6,2,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",31.934
+beijing_multisite,6,2,Wanliu,ridge_tuned,{'alpha': 100.0},32.539
+beijing_multisite,6,2,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.394
+beijing_multisite,6,2,Wanshouxigong,ridge_tuned,{'alpha': 100.0},33.724
+beijing_multisite,6,2,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",33.503
+beijing_multisite,6,3,Aotizhongxin,ridge_tuned,{'alpha': 100.0},33.958
+beijing_multisite,6,3,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",33.377
+beijing_multisite,6,3,Changping,ridge_tuned,{'alpha': 100.0},29.302
+beijing_multisite,6,3,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",28.468
+beijing_multisite,6,3,Dingling,ridge_tuned,{'alpha': 100.0},27.013
+beijing_multisite,6,3,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",26.562
+beijing_multisite,6,3,Dongsi,ridge_tuned,{'alpha': 10.0},35.341
+beijing_multisite,6,3,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.589
+beijing_multisite,6,3,Guanyuan,ridge_tuned,{'alpha': 100.0},32.359
+beijing_multisite,6,3,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",31.801
+beijing_multisite,6,3,Gucheng,ridge_tuned,{'alpha': 10.0},32.389
+beijing_multisite,6,3,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.555
+beijing_multisite,6,3,Huairou,ridge_tuned,{'alpha': 100.0},27.955
+beijing_multisite,6,3,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",27.124
+beijing_multisite,6,3,Nongzhanguan,ridge_tuned,{'alpha': 10.0},35.842
+beijing_multisite,6,3,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",35.507
+beijing_multisite,6,3,Shunyi,ridge_tuned,{'alpha': 100.0},33.84
+beijing_multisite,6,3,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.525
+beijing_multisite,6,3,Tiantan,ridge_tuned,{'alpha': 100.0},33.394
+beijing_multisite,6,3,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",33.086
+beijing_multisite,6,3,Wanliu,ridge_tuned,{'alpha': 100.0},32.536
+beijing_multisite,6,3,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",32.75
+beijing_multisite,6,3,Wanshouxigong,ridge_tuned,{'alpha': 100.0},34.358
+beijing_multisite,6,3,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.045
+beijing_multisite,6,4,Aotizhongxin,ridge_tuned,{'alpha': 100.0},31.925
+beijing_multisite,6,4,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",31.27
+beijing_multisite,6,4,Changping,ridge_tuned,{'alpha': 100.0},27.525
+beijing_multisite,6,4,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",26.805
+beijing_multisite,6,4,Dingling,ridge_tuned,{'alpha': 100.0},25.936
+beijing_multisite,6,4,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",25.377
+beijing_multisite,6,4,Dongsi,ridge_tuned,{'alpha': 100.0},33.43
+beijing_multisite,6,4,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.629
+beijing_multisite,6,4,Guanyuan,ridge_tuned,{'alpha': 100.0},30.692
+beijing_multisite,6,4,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",29.697
+beijing_multisite,6,4,Gucheng,ridge_tuned,{'alpha': 10.0},31.04
+beijing_multisite,6,4,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",30.435
+beijing_multisite,6,4,Huairou,ridge_tuned,{'alpha': 100.0},26.649
+beijing_multisite,6,4,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",25.681
+beijing_multisite,6,4,Nongzhanguan,ridge_tuned,{'alpha': 100.0},33.514
+beijing_multisite,6,4,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",32.65
+beijing_multisite,6,4,Shunyi,ridge_tuned,{'alpha': 100.0},32.149
+beijing_multisite,6,4,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",30.617
+beijing_multisite,6,4,Tiantan,ridge_tuned,{'alpha': 100.0},31.394
+beijing_multisite,6,4,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",30.758
+beijing_multisite,6,4,Wanliu,ridge_tuned,{'alpha': 100.0},30.766
+beijing_multisite,6,4,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",30.303
+beijing_multisite,6,4,Wanshouxigong,ridge_tuned,{'alpha': 100.0},32.418
+beijing_multisite,6,4,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",31.816
+beijing_multisite,24,0,Aotizhongxin,ridge_tuned,{'alpha': 1000.0},56.05
+beijing_multisite,24,0,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.169
+beijing_multisite,24,0,Changping,ridge_tuned,{'alpha': 1000.0},49.913
+beijing_multisite,24,0,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",49.51
+beijing_multisite,24,0,Dingling,ridge_tuned,{'alpha': 1000.0},50.02
+beijing_multisite,24,0,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",49.727
+beijing_multisite,24,0,Dongsi,ridge_tuned,{'alpha': 1000.0},58.647
+beijing_multisite,24,0,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",57.155
+beijing_multisite,24,0,Guanyuan,ridge_tuned,{'alpha': 1000.0},54.804
+beijing_multisite,24,0,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",53.943
+beijing_multisite,24,0,Gucheng,ridge_tuned,{'alpha': 1000.0},53.62
+beijing_multisite,24,0,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",52.992
+beijing_multisite,24,0,Huairou,ridge_tuned,{'alpha': 1000.0},49.048
+beijing_multisite,24,0,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",48.548
+beijing_multisite,24,0,Nongzhanguan,ridge_tuned,{'alpha': 1000.0},58.262
+beijing_multisite,24,0,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",56.85
+beijing_multisite,24,0,Shunyi,ridge_tuned,{'alpha': 1000.0},55.365
+beijing_multisite,24,0,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",54.286
+beijing_multisite,24,0,Tiantan,ridge_tuned,{'alpha': 1000.0},54.701
+beijing_multisite,24,0,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",53.439
+beijing_multisite,24,0,Wanliu,ridge_tuned,{'alpha': 100.0},55.23
+beijing_multisite,24,0,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",54.485
+beijing_multisite,24,0,Wanshouxigong,ridge_tuned,{'alpha': 1000.0},56.897
+beijing_multisite,24,0,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",56.614
+beijing_multisite,24,1,Aotizhongxin,ridge_tuned,{'alpha': 1000.0},57.552
+beijing_multisite,24,1,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",60.767
+beijing_multisite,24,1,Changping,ridge_tuned,{'alpha': 1000.0},53.831
+beijing_multisite,24,1,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",56.932
+beijing_multisite,24,1,Dingling,ridge_tuned,{'alpha': 100.0},53.182
+beijing_multisite,24,1,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",57.705
+beijing_multisite,24,1,Dongsi,ridge_tuned,{'alpha': 1000.0},60.649
+beijing_multisite,24,1,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",62.236
+beijing_multisite,24,1,Guanyuan,ridge_tuned,{'alpha': 1000.0},57.376
+beijing_multisite,24,1,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",59.293
+beijing_multisite,24,1,Gucheng,ridge_tuned,{'alpha': 1000.0},56.059
+beijing_multisite,24,1,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",57.704
+beijing_multisite,24,1,Huairou,ridge_tuned,{'alpha': 100.0},51.701
+beijing_multisite,24,1,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.69
+beijing_multisite,24,1,Nongzhanguan,ridge_tuned,{'alpha': 1000.0},60.719
+beijing_multisite,24,1,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",62.578
+beijing_multisite,24,1,Shunyi,ridge_tuned,{'alpha': 1000.0},56.09
+beijing_multisite,24,1,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",59.149
+beijing_multisite,24,1,Tiantan,ridge_tuned,{'alpha': 1000.0},56.773
+beijing_multisite,24,1,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",59.057
+beijing_multisite,24,1,Wanliu,ridge_tuned,{'alpha': 1000.0},59.594
+beijing_multisite,24,1,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.239
+beijing_multisite,24,1,Wanshouxigong,ridge_tuned,{'alpha': 1000.0},59.532
+beijing_multisite,24,1,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",62.926
+beijing_multisite,24,2,Aotizhongxin,ridge_tuned,{'alpha': 1000.0},52.624
+beijing_multisite,24,2,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.068
+beijing_multisite,24,2,Changping,ridge_tuned,{'alpha': 1000.0},49.241
+beijing_multisite,24,2,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",50.93
+beijing_multisite,24,2,Dingling,ridge_tuned,{'alpha': 100.0},48.034
+beijing_multisite,24,2,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",50.378
+beijing_multisite,24,2,Dongsi,ridge_tuned,{'alpha': 100.0},54.616
+beijing_multisite,24,2,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",54.908
+beijing_multisite,24,2,Guanyuan,ridge_tuned,{'alpha': 1000.0},51.653
+beijing_multisite,24,2,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",52.667
+beijing_multisite,24,2,Gucheng,ridge_tuned,{'alpha': 1000.0},50.134
+beijing_multisite,24,2,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",50.677
+beijing_multisite,24,2,Huairou,ridge_tuned,{'alpha': 1000.0},46.468
+beijing_multisite,24,2,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",47.897
+beijing_multisite,24,2,Nongzhanguan,ridge_tuned,{'alpha': 1000.0},54.999
+beijing_multisite,24,2,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.422
+beijing_multisite,24,2,Shunyi,ridge_tuned,{'alpha': 1000.0},51.007
+beijing_multisite,24,2,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",52.431
+beijing_multisite,24,2,Tiantan,ridge_tuned,{'alpha': 1000.0},51.858
+beijing_multisite,24,2,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",52.378
+beijing_multisite,24,2,Wanliu,ridge_tuned,{'alpha': 1000.0},53.639
+beijing_multisite,24,2,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",53.85
+beijing_multisite,24,2,Wanshouxigong,ridge_tuned,{'alpha': 100.0},54.498
+beijing_multisite,24,2,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.708
+beijing_multisite,24,3,Aotizhongxin,ridge_tuned,{'alpha': 1000.0},56.279
+beijing_multisite,24,3,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.563
+beijing_multisite,24,3,Changping,ridge_tuned,{'alpha': 1000.0},50.615
+beijing_multisite,24,3,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",50.152
+beijing_multisite,24,3,Dingling,ridge_tuned,{'alpha': 1000.0},50.396
+beijing_multisite,24,3,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",50.324
+beijing_multisite,24,3,Dongsi,ridge_tuned,{'alpha': 100.0},58.949
+beijing_multisite,24,3,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",57.004
+beijing_multisite,24,3,Guanyuan,ridge_tuned,{'alpha': 10.0},54.895
+beijing_multisite,24,3,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",54.253
+beijing_multisite,24,3,Gucheng,ridge_tuned,{'alpha': 1000.0},53.714
+beijing_multisite,24,3,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",53.13
+beijing_multisite,24,3,Huairou,ridge_tuned,{'alpha': 1000.0},49.075
+beijing_multisite,24,3,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",48.89
+beijing_multisite,24,3,Nongzhanguan,ridge_tuned,{'alpha': 1000.0},58.86
+beijing_multisite,24,3,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",57.079
+beijing_multisite,24,3,Shunyi,ridge_tuned,{'alpha': 1000.0},55.412
+beijing_multisite,24,3,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",54.354
+beijing_multisite,24,3,Tiantan,ridge_tuned,{'alpha': 1000.0},55.536
+beijing_multisite,24,3,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",54.275
+beijing_multisite,24,3,Wanliu,ridge_tuned,{'alpha': 1000.0},56.08
+beijing_multisite,24,3,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",55.27
+beijing_multisite,24,3,Wanshouxigong,ridge_tuned,{'alpha': 1000.0},57.613
+beijing_multisite,24,3,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",57.179
+beijing_multisite,24,4,Aotizhongxin,ridge_tuned,{'alpha': 1000.0},52.551
+beijing_multisite,24,4,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",52.015
+beijing_multisite,24,4,Changping,ridge_tuned,{'alpha': 1000.0},47.076
+beijing_multisite,24,4,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",46.602
+beijing_multisite,24,4,Dingling,ridge_tuned,{'alpha': 1000.0},47.287
+beijing_multisite,24,4,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",47.37
+beijing_multisite,24,4,Dongsi,ridge_tuned,{'alpha': 1000.0},55.169
+beijing_multisite,24,4,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",53.909
+beijing_multisite,24,4,Guanyuan,ridge_tuned,{'alpha': 10000.0},51.365
+beijing_multisite,24,4,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",50.511
+beijing_multisite,24,4,Gucheng,ridge_tuned,{'alpha': 1000.0},50.157
+beijing_multisite,24,4,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",49.705
+beijing_multisite,24,4,Huairou,ridge_tuned,{'alpha': 1000.0},45.969
+beijing_multisite,24,4,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",45.703
+beijing_multisite,24,4,Nongzhanguan,ridge_tuned,{'alpha': 100.0},54.402
+beijing_multisite,24,4,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",53.279
+beijing_multisite,24,4,Shunyi,ridge_tuned,{'alpha': 10000.0},52.248
+beijing_multisite,24,4,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",51.485
+beijing_multisite,24,4,Tiantan,ridge_tuned,{'alpha': 1000.0},51.419
+beijing_multisite,24,4,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",50.25
+beijing_multisite,24,4,Wanliu,ridge_tuned,{'alpha': 10.0},52.026
+beijing_multisite,24,4,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",51.292
+beijing_multisite,24,4,Wanshouxigong,ridge_tuned,{'alpha': 10000.0},53.507
+beijing_multisite,24,4,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",53.094
+beijing_multisite,48,0,Aotizhongxin,ridge_tuned,{'alpha': 10000.0},62.675
+beijing_multisite,48,0,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",64.696
+beijing_multisite,48,0,Changping,ridge_tuned,{'alpha': 10000.0},56.215
+beijing_multisite,48,0,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",58.258
+beijing_multisite,48,0,Dingling,ridge_tuned,{'alpha': 100000.0},56.741
+beijing_multisite,48,0,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",58.434
+beijing_multisite,48,0,Dongsi,ridge_tuned,{'alpha': 10000.0},64.997
+beijing_multisite,48,0,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",66.375
+beijing_multisite,48,0,Guanyuan,ridge_tuned,{'alpha': 100000.0},60.751
+beijing_multisite,48,0,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",62.864
+beijing_multisite,48,0,Gucheng,ridge_tuned,{'alpha': 10000.0},59.924
+beijing_multisite,48,0,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.397
+beijing_multisite,48,0,Huairou,ridge_tuned,{'alpha': 10000.0},55.153
+beijing_multisite,48,0,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",56.164
+beijing_multisite,48,0,Nongzhanguan,ridge_tuned,{'alpha': 10000.0},64.622
+beijing_multisite,48,0,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",65.353
+beijing_multisite,48,0,Shunyi,ridge_tuned,{'alpha': 10000.0},61.268
+beijing_multisite,48,0,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.23
+beijing_multisite,48,0,Tiantan,ridge_tuned,{'alpha': 10000.0},61.024
+beijing_multisite,48,0,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",62.145
+beijing_multisite,48,0,Wanliu,ridge_tuned,{'alpha': 10000.0},62.636
+beijing_multisite,48,0,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",64.817
+beijing_multisite,48,0,Wanshouxigong,ridge_tuned,{'alpha': 100000.0},63.619
+beijing_multisite,48,0,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",65.839
+beijing_multisite,48,1,Aotizhongxin,ridge_tuned,{'alpha': 100000.0},62.1
+beijing_multisite,48,1,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",68.122
+beijing_multisite,48,1,Changping,ridge_tuned,{'alpha': 100000.0},59.45
+beijing_multisite,48,1,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",65.289
+beijing_multisite,48,1,Dingling,ridge_tuned,{'alpha': 100000.0},59.638
+beijing_multisite,48,1,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",67.235
+beijing_multisite,48,1,Dongsi,ridge_tuned,{'alpha': 10000.0},66.248
+beijing_multisite,48,1,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",70.209
+beijing_multisite,48,1,Guanyuan,ridge_tuned,{'alpha': 100000.0},61.788
+beijing_multisite,48,1,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",66.715
+beijing_multisite,48,1,Gucheng,ridge_tuned,{'alpha': 100000.0},61.383
+beijing_multisite,48,1,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",65.486
+beijing_multisite,48,1,Huairou,ridge_tuned,{'alpha': 100000.0},57.237
+beijing_multisite,48,1,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.142
+beijing_multisite,48,1,Nongzhanguan,ridge_tuned,{'alpha': 100.0},65.681
+beijing_multisite,48,1,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",70.598
+beijing_multisite,48,1,Shunyi,ridge_tuned,{'alpha': 1000.0},60.957
+beijing_multisite,48,1,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",67.152
+beijing_multisite,48,1,Tiantan,ridge_tuned,{'alpha': 100000.0},61.652
+beijing_multisite,48,1,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",66.107
+beijing_multisite,48,1,Wanliu,ridge_tuned,{'alpha': 100000.0},65.176
+beijing_multisite,48,1,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",70.368
+beijing_multisite,48,1,Wanshouxigong,ridge_tuned,{'alpha': 100000.0},64.589
+beijing_multisite,48,1,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",71.154
+beijing_multisite,48,2,Aotizhongxin,ridge_tuned,{'alpha': 10000.0},58.561
+beijing_multisite,48,2,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.554
+beijing_multisite,48,2,Changping,ridge_tuned,{'alpha': 100000.0},55.169
+beijing_multisite,48,2,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",58.312
+beijing_multisite,48,2,Dingling,ridge_tuned,{'alpha': 100000.0},55.392
+beijing_multisite,48,2,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",59.091
+beijing_multisite,48,2,Dongsi,ridge_tuned,{'alpha': 1000.0},60.758
+beijing_multisite,48,2,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.876
+beijing_multisite,48,2,Guanyuan,ridge_tuned,{'alpha': 10000.0},57.217
+beijing_multisite,48,2,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",60.571
+beijing_multisite,48,2,Gucheng,ridge_tuned,{'alpha': 10000.0},56.442
+beijing_multisite,48,2,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",58.67
+beijing_multisite,48,2,Huairou,ridge_tuned,{'alpha': 10000.0},53.059
+beijing_multisite,48,2,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.789
+beijing_multisite,48,2,Nongzhanguan,ridge_tuned,{'alpha': 1000.0},60.395
+beijing_multisite,48,2,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",62.73
+beijing_multisite,48,2,Shunyi,ridge_tuned,{'alpha': 1000.0},56.649
+beijing_multisite,48,2,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",60.488
+beijing_multisite,48,2,Tiantan,ridge_tuned,{'alpha': 1000.0},57.334
+beijing_multisite,48,2,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",60.293
+beijing_multisite,48,2,Wanliu,ridge_tuned,{'alpha': 10000.0},59.838
+beijing_multisite,48,2,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.695
+beijing_multisite,48,2,Wanshouxigong,ridge_tuned,{'alpha': 10000.0},60.248
+beijing_multisite,48,2,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.682
+beijing_multisite,48,3,Aotizhongxin,ridge_tuned,{'alpha': 10000.0},63.195
+beijing_multisite,48,3,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",65.347
+beijing_multisite,48,3,Changping,ridge_tuned,{'alpha': 100000.0},56.929
+beijing_multisite,48,3,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",58.67
+beijing_multisite,48,3,Dingling,ridge_tuned,{'alpha': 100000.0},57.244
+beijing_multisite,48,3,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",59.187
+beijing_multisite,48,3,Dongsi,ridge_tuned,{'alpha': 10000.0},65.604
+beijing_multisite,48,3,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",66.832
+beijing_multisite,48,3,Guanyuan,ridge_tuned,{'alpha': 100000.0},61.276
+beijing_multisite,48,3,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",64.12
+beijing_multisite,48,3,Gucheng,ridge_tuned,{'alpha': 10000.0},60.386
+beijing_multisite,48,3,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",62.39
+beijing_multisite,48,3,Huairou,ridge_tuned,{'alpha': 10000.0},55.625
+beijing_multisite,48,3,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",56.692
+beijing_multisite,48,3,Nongzhanguan,ridge_tuned,{'alpha': 1000.0},65.28
+beijing_multisite,48,3,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",66.447
+beijing_multisite,48,3,Shunyi,ridge_tuned,{'alpha': 10000.0},61.504
+beijing_multisite,48,3,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.407
+beijing_multisite,48,3,Tiantan,ridge_tuned,{'alpha': 10000.0},61.787
+beijing_multisite,48,3,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.134
+beijing_multisite,48,3,Wanliu,ridge_tuned,{'alpha': 10000.0},63.461
+beijing_multisite,48,3,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",65.982
+beijing_multisite,48,3,Wanshouxigong,ridge_tuned,{'alpha': 100000.0},64.485
+beijing_multisite,48,3,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",67.056
+beijing_multisite,48,4,Aotizhongxin,ridge_tuned,{'alpha': 10000.0},58.606
+beijing_multisite,48,4,Aotizhongxin,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",60.331
+beijing_multisite,48,4,Changping,ridge_tuned,{'alpha': 10000.0},52.752
+beijing_multisite,48,4,Changping,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.384
+beijing_multisite,48,4,Dingling,ridge_tuned,{'alpha': 10000.0},53.297
+beijing_multisite,48,4,Dingling,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",55.347
+beijing_multisite,48,4,Dongsi,ridge_tuned,{'alpha': 10000.0},61.089
+beijing_multisite,48,4,Dongsi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.57
+beijing_multisite,48,4,Guanyuan,ridge_tuned,{'alpha': 10000.0},57.23
+beijing_multisite,48,4,Guanyuan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",59.337
+beijing_multisite,48,4,Gucheng,ridge_tuned,{'alpha': 10000.0},55.98
+beijing_multisite,48,4,Gucheng,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",57.497
+beijing_multisite,48,4,Huairou,ridge_tuned,{'alpha': 10000.0},51.436
+beijing_multisite,48,4,Huairou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",52.447
+beijing_multisite,48,4,Nongzhanguan,ridge_tuned,{'alpha': 10000.0},60.356
+beijing_multisite,48,4,Nongzhanguan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",60.899
+beijing_multisite,48,4,Shunyi,ridge_tuned,{'alpha': 10000.0},57.574
+beijing_multisite,48,4,Shunyi,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",58.552
+beijing_multisite,48,4,Tiantan,ridge_tuned,{'alpha': 10000.0},57.069
+beijing_multisite,48,4,Tiantan,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",58.125
+beijing_multisite,48,4,Wanliu,ridge_tuned,{'alpha': 10000.0},58.796
+beijing_multisite,48,4,Wanliu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",60.171
+beijing_multisite,48,4,Wanshouxigong,ridge_tuned,{'alpha': 100000.0},59.793
+beijing_multisite,48,4,Wanshouxigong,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.161
+beijing_pm25,1,0,all,ridge_tuned,{'alpha': 10.0},12.962
+beijing_pm25,1,0,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.78
+beijing_pm25,1,1,all,ridge_tuned,{'alpha': 10.0},13.093
+beijing_pm25,1,1,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",13.164
+beijing_pm25,1,2,all,ridge_tuned,{'alpha': 10.0},13.308
+beijing_pm25,1,2,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",13.211
+beijing_pm25,1,3,all,ridge_tuned,{'alpha': 10.0},12.962
+beijing_pm25,1,3,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.78
+beijing_pm25,1,4,all,ridge_tuned,{'alpha': 10.0},12.897
+beijing_pm25,1,4,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.692
+beijing_pm25,6,0,all,ridge_tuned,{'alpha': 100.0},39.396
+beijing_pm25,6,0,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",37.766
+beijing_pm25,6,1,all,ridge_tuned,{'alpha': 100.0},39.915
+beijing_pm25,6,1,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",38.467
+beijing_pm25,6,2,all,ridge_tuned,{'alpha': 100.0},40.439
+beijing_pm25,6,2,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",38.859
+beijing_pm25,6,3,all,ridge_tuned,{'alpha': 100.0},39.396
+beijing_pm25,6,3,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",37.766
+beijing_pm25,6,4,all,ridge_tuned,{'alpha': 100.0},38.975
+beijing_pm25,6,4,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",37.569
+beijing_pm25,24,0,all,ridge_tuned,{'alpha': 10.0},61.902
+beijing_pm25,24,0,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.5
+beijing_pm25,24,1,all,ridge_tuned,{'alpha': 0.1},63.038
+beijing_pm25,24,1,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.139
+beijing_pm25,24,2,all,ridge_tuned,{'alpha': 10.0},63.669
+beijing_pm25,24,2,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",63.313
+beijing_pm25,24,3,all,ridge_tuned,{'alpha': 10.0},61.902
+beijing_pm25,24,3,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.5
+beijing_pm25,24,4,all,ridge_tuned,{'alpha': 10.0},61.249
+beijing_pm25,24,4,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.581
+beijing_pm25,48,0,all,ridge_tuned,{'alpha': 10000.0},67.76
+beijing_pm25,48,0,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",69.174
+beijing_pm25,48,1,all,ridge_tuned,{'alpha': 100000.0},69.142
+beijing_pm25,48,1,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",71.206
+beijing_pm25,48,2,all,ridge_tuned,{'alpha': 10000.0},69.888
+beijing_pm25,48,2,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",71.572
+beijing_pm25,48,3,all,ridge_tuned,{'alpha': 10000.0},67.76
+beijing_pm25,48,3,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",69.174
+beijing_pm25,48,4,all,ridge_tuned,{'alpha': 10000.0},67.116
+beijing_pm25,48,4,all,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",69.131
+five_cities,1,0,Beijing,ridge_tuned,{'alpha': 10.0},12.678
+five_cities,1,0,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.41
+five_cities,1,0,Chengdu,ridge_tuned,{'alpha': 10.0},10.448
+five_cities,1,0,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.346
+five_cities,1,0,Guangzhou,ridge_tuned,{'alpha': 10.0},7.792
+five_cities,1,0,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",7.901
+five_cities,1,0,Shanghai,ridge_tuned,{'alpha': 10.0},7.724
+five_cities,1,0,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",7.717
+five_cities,1,0,Shenyang,ridge_tuned,{'alpha': 10.0},16.854
+five_cities,1,0,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",16.164
+five_cities,1,1,Beijing,ridge_tuned,{'alpha': 10.0},13.045
+five_cities,1,1,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.799
+five_cities,1,1,Chengdu,ridge_tuned,{'alpha': 10.0},15.348
+five_cities,1,1,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.847
+five_cities,1,1,Guangzhou,ridge_tuned,{'alpha': 10.0},8.162
+five_cities,1,1,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",8.179
+five_cities,1,1,Shanghai,ridge_tuned,{'alpha': 10.0},8.11
+five_cities,1,1,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",8.259
+five_cities,1,2,Beijing,ridge_tuned,{'alpha': 10.0},12.972
+five_cities,1,2,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.724
+five_cities,1,2,Chengdu,ridge_tuned,{'alpha': 1.0},10.413
+five_cities,1,2,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.258
+five_cities,1,2,Guangzhou,ridge_tuned,{'alpha': 10.0},8.471
+five_cities,1,2,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",8.592
+five_cities,1,2,Shanghai,ridge_tuned,{'alpha': 10.0},7.993
+five_cities,1,2,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",7.94
+five_cities,1,2,Shenyang,ridge_tuned,{'alpha': 10.0},15.731
+five_cities,1,2,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",13.904
+five_cities,1,3,Beijing,ridge_tuned,{'alpha': 10.0},12.678
+five_cities,1,3,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.41
+five_cities,1,3,Chengdu,ridge_tuned,{'alpha': 10.0},10.448
+five_cities,1,3,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",10.346
+five_cities,1,3,Guangzhou,ridge_tuned,{'alpha': 10.0},7.792
+five_cities,1,3,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",7.901
+five_cities,1,3,Shanghai,ridge_tuned,{'alpha': 10.0},7.724
+five_cities,1,3,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",7.717
+five_cities,1,3,Shenyang,ridge_tuned,{'alpha': 10.0},16.854
+five_cities,1,3,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",16.164
+five_cities,1,4,Beijing,ridge_tuned,{'alpha': 10.0},12.504
+five_cities,1,4,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",12.255
+five_cities,1,4,Chengdu,ridge_tuned,{'alpha': 1.0},9.857
+five_cities,1,4,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",9.905
+five_cities,1,4,Guangzhou,ridge_tuned,{'alpha': 10.0},7.332
+five_cities,1,4,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",7.419
+five_cities,1,4,Shanghai,ridge_tuned,{'alpha': 10.0},7.519
+five_cities,1,4,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",7.54
+five_cities,1,4,Shenyang,ridge_tuned,{'alpha': 10.0},14.783
+five_cities,1,4,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",15.517
+five_cities,6,0,Beijing,ridge_tuned,{'alpha': 100.0},39.211
+five_cities,6,0,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",37.29
+five_cities,6,0,Chengdu,ridge_tuned,{'alpha': 1000.0},24.667
+five_cities,6,0,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",23.284
+five_cities,6,0,Guangzhou,ridge_tuned,{'alpha': 100.0},16.743
+five_cities,6,0,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",16.626
+five_cities,6,0,Shanghai,ridge_tuned,{'alpha': 100.0},18.515
+five_cities,6,0,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",18.621
+five_cities,6,0,Shenyang,ridge_tuned,{'alpha': 1000.0},37.098
+five_cities,6,0,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",33.107
+five_cities,6,1,Beijing,ridge_tuned,{'alpha': 100.0},39.917
+five_cities,6,1,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",38.049
+five_cities,6,1,Chengdu,ridge_tuned,{'alpha': 1000.0},33.356
+five_cities,6,1,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",25.52
+five_cities,6,1,Guangzhou,ridge_tuned,{'alpha': 1000.0},17.057
+five_cities,6,1,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",16.956
+five_cities,6,1,Shanghai,ridge_tuned,{'alpha': 100.0},18.964
+five_cities,6,1,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",19.911
+five_cities,6,2,Beijing,ridge_tuned,{'alpha': 100.0},39.498
+five_cities,6,2,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",37.8
+five_cities,6,2,Chengdu,ridge_tuned,{'alpha': 10.0},25.709
+five_cities,6,2,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",23.81
+five_cities,6,2,Guangzhou,ridge_tuned,{'alpha': 100.0},17.957
+five_cities,6,2,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",18.039
+five_cities,6,2,Shanghai,ridge_tuned,{'alpha': 10.0},19.242
+five_cities,6,2,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",19.312
+five_cities,6,2,Shenyang,ridge_tuned,{'alpha': 10.0},33.053
+five_cities,6,2,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",29.722
+five_cities,6,3,Beijing,ridge_tuned,{'alpha': 100.0},39.211
+five_cities,6,3,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",37.29
+five_cities,6,3,Chengdu,ridge_tuned,{'alpha': 1000.0},24.667
+five_cities,6,3,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",23.284
+five_cities,6,3,Guangzhou,ridge_tuned,{'alpha': 100.0},16.743
+five_cities,6,3,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",16.626
+five_cities,6,3,Shanghai,ridge_tuned,{'alpha': 100.0},18.515
+five_cities,6,3,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",18.621
+five_cities,6,3,Shenyang,ridge_tuned,{'alpha': 1000.0},37.098
+five_cities,6,3,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",33.107
+five_cities,6,4,Beijing,ridge_tuned,{'alpha': 100.0},38.756
+five_cities,6,4,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",36.759
+five_cities,6,4,Chengdu,ridge_tuned,{'alpha': 100.0},23.491
+five_cities,6,4,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",23.0
+five_cities,6,4,Guangzhou,ridge_tuned,{'alpha': 100.0},15.835
+five_cities,6,4,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",15.78
+five_cities,6,4,Shanghai,ridge_tuned,{'alpha': 100.0},18.145
+five_cities,6,4,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",18.265
+five_cities,6,4,Shenyang,ridge_tuned,{'alpha': 1000.0},33.778
+five_cities,6,4,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",31.567
+five_cities,24,0,Beijing,ridge_tuned,{'alpha': 100.0},61.642
+five_cities,24,0,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.466
+five_cities,24,0,Chengdu,ridge_tuned,{'alpha': 10000.0},32.648
+five_cities,24,0,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",31.382
+five_cities,24,0,Guangzhou,ridge_tuned,{'alpha': 10000.0},21.73
+five_cities,24,0,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",22.548
+five_cities,24,0,Shanghai,ridge_tuned,{'alpha': 100.0},26.385
+five_cities,24,0,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",27.788
+five_cities,24,0,Shenyang,ridge_tuned,{'alpha': 10000.0},40.821
+five_cities,24,0,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",44.732
+five_cities,24,1,Beijing,ridge_tuned,{'alpha': 100.0},62.312
+five_cities,24,1,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.652
+five_cities,24,1,Chengdu,ridge_tuned,{'alpha': 10000.0},44.504
+five_cities,24,1,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",34.492
+five_cities,24,1,Guangzhou,ridge_tuned,{'alpha': 10000.0},21.805
+five_cities,24,1,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",23.063
+five_cities,24,1,Shanghai,ridge_tuned,{'alpha': 1000.0},26.815
+five_cities,24,1,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",28.568
+five_cities,24,2,Beijing,ridge_tuned,{'alpha': 100.0},61.672
+five_cities,24,2,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.824
+five_cities,24,2,Chengdu,ridge_tuned,{'alpha': 10000.0},33.734
+five_cities,24,2,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",32.251
+five_cities,24,2,Guangzhou,ridge_tuned,{'alpha': 10000.0},23.319
+five_cities,24,2,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",24.653
+five_cities,24,2,Shanghai,ridge_tuned,{'alpha': 1000.0},27.429
+five_cities,24,2,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",28.369
+five_cities,24,2,Shenyang,ridge_tuned,{'alpha': 10000.0},35.399
+five_cities,24,2,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",39.62
+five_cities,24,3,Beijing,ridge_tuned,{'alpha': 100.0},61.642
+five_cities,24,3,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",61.466
+five_cities,24,3,Chengdu,ridge_tuned,{'alpha': 10000.0},32.648
+five_cities,24,3,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",31.382
+five_cities,24,3,Guangzhou,ridge_tuned,{'alpha': 10000.0},21.73
+five_cities,24,3,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",22.548
+five_cities,24,3,Shanghai,ridge_tuned,{'alpha': 100.0},26.385
+five_cities,24,3,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",27.788
+five_cities,24,3,Shenyang,ridge_tuned,{'alpha': 10000.0},40.821
+five_cities,24,3,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",44.732
+five_cities,24,4,Beijing,ridge_tuned,{'alpha': 100.0},61.24
+five_cities,24,4,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",60.927
+five_cities,24,4,Chengdu,ridge_tuned,{'alpha': 100.0},30.893
+five_cities,24,4,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",31.016
+five_cities,24,4,Guangzhou,ridge_tuned,{'alpha': 1000.0},21.061
+five_cities,24,4,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",21.741
+five_cities,24,4,Shanghai,ridge_tuned,{'alpha': 100.0},26.008
+five_cities,24,4,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",27.261
+five_cities,24,4,Shenyang,ridge_tuned,{'alpha': 10000.0},39.463
+five_cities,24,4,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",39.453
+five_cities,48,0,Beijing,ridge_tuned,{'alpha': 100000.0},67.673
+five_cities,48,0,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",69.641
+five_cities,48,0,Chengdu,ridge_tuned,{'alpha': 10000.0},36.298
+five_cities,48,0,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",37.233
+five_cities,48,0,Guangzhou,ridge_tuned,{'alpha': 10000.0},23.441
+five_cities,48,0,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",24.986
+five_cities,48,0,Shanghai,ridge_tuned,{'alpha': 1000.0},28.208
+five_cities,48,0,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",29.598
+five_cities,48,0,Shenyang,ridge_tuned,{'alpha': 10000.0},40.94
+five_cities,48,0,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",54.443
+five_cities,48,1,Beijing,ridge_tuned,{'alpha': 10000.0},67.826
+five_cities,48,1,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",69.58
+five_cities,48,1,Chengdu,ridge_tuned,{'alpha': 10000.0},46.073
+five_cities,48,1,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",43.087
+five_cities,48,1,Guangzhou,ridge_tuned,{'alpha': 10000.0},23.952
+five_cities,48,1,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",25.715
+five_cities,48,1,Shanghai,ridge_tuned,{'alpha': 1000.0},29.201
+five_cities,48,1,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",30.722
+five_cities,48,2,Beijing,ridge_tuned,{'alpha': 10000.0},67.237
+five_cities,48,2,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",69.384
+five_cities,48,2,Chengdu,ridge_tuned,{'alpha': 10000.0},37.606
+five_cities,48,2,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",38.09
+five_cities,48,2,Guangzhou,ridge_tuned,{'alpha': 10000.0},25.011
+five_cities,48,2,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",26.753
+five_cities,48,2,Shanghai,ridge_tuned,{'alpha': 10000.0},29.281
+five_cities,48,2,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",30.216
+five_cities,48,2,Shenyang,ridge_tuned,{'alpha': 10000.0},35.811
+five_cities,48,2,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",46.397
+five_cities,48,3,Beijing,ridge_tuned,{'alpha': 100000.0},67.673
+five_cities,48,3,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",69.641
+five_cities,48,3,Chengdu,ridge_tuned,{'alpha': 10000.0},36.298
+five_cities,48,3,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",37.233
+five_cities,48,3,Guangzhou,ridge_tuned,{'alpha': 10000.0},23.441
+five_cities,48,3,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",24.986
+five_cities,48,3,Shanghai,ridge_tuned,{'alpha': 1000.0},28.208
+five_cities,48,3,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",29.598
+five_cities,48,3,Shenyang,ridge_tuned,{'alpha': 10000.0},40.94
+five_cities,48,3,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",54.443
+five_cities,48,4,Beijing,ridge_tuned,{'alpha': 100000.0},66.891
+five_cities,48,4,Beijing,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",68.402
+five_cities,48,4,Chengdu,ridge_tuned,{'alpha': 1.0},34.865
+five_cities,48,4,Chengdu,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",35.572
+five_cities,48,4,Guangzhou,ridge_tuned,{'alpha': 1000.0},23.096
+five_cities,48,4,Guangzhou,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",24.215
+five_cities,48,4,Shanghai,ridge_tuned,{'alpha': 10000.0},27.985
+five_cities,48,4,Shanghai,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",29.288
+five_cities,48,4,Shenyang,ridge_tuned,{'alpha': 10000.0},41.057
+five_cities,48,4,Shenyang,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",42.323
+india_city_day,1,0,pooled,ridge_tuned,{'alpha': 0.1},20.252
+india_city_day,1,0,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",20.378
+india_city_day,1,1,pooled,ridge_tuned,{'alpha': 0.1},24.182
+india_city_day,1,1,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",24.342
+india_city_day,1,2,pooled,ridge_tuned,{'alpha': 0.1},21.666
+india_city_day,1,2,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",21.491
+india_city_day,1,3,pooled,ridge_tuned,{'alpha': 0.1},20.047
+india_city_day,1,3,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",20.091
+india_city_day,1,4,pooled,ridge_tuned,{'alpha': 100.0},18.81
+india_city_day,1,4,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",18.71
+india_city_day,3,0,pooled,ridge_tuned,{'alpha': 100.0},26.568
+india_city_day,3,0,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",26.071
+india_city_day,3,1,pooled,ridge_tuned,{'alpha': 100.0},30.853
+india_city_day,3,1,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",30.216
+india_city_day,3,2,pooled,ridge_tuned,{'alpha': 100.0},28.227
+india_city_day,3,2,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",27.046
+india_city_day,3,3,pooled,ridge_tuned,{'alpha': 100.0},26.298
+india_city_day,3,3,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",25.642
+india_city_day,3,4,pooled,ridge_tuned,{'alpha': 100.0},24.936
+india_city_day,3,4,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",24.452
+india_city_day,7,0,pooled,ridge_tuned,{'alpha': 100.0},29.738
+india_city_day,7,0,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",28.672
+india_city_day,7,1,pooled,ridge_tuned,{'alpha': 1000.0},34.427
+india_city_day,7,1,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",33.177
+india_city_day,7,2,pooled,ridge_tuned,{'alpha': 1000.0},31.547
+india_city_day,7,2,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",29.4
+india_city_day,7,3,pooled,ridge_tuned,{'alpha': 100.0},29.429
+india_city_day,7,3,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",28.348
+india_city_day,7,4,pooled,ridge_tuned,{'alpha': 100.0},27.67
+india_city_day,7,4,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",26.848
+epa_daily,1,0,pooled,ridge_tuned,{'alpha': 10000.0},3.669
+epa_daily,1,0,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",3.686
+epa_daily,1,3,pooled,ridge_tuned,{'alpha': 0.1},3.494
+epa_daily,1,3,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",3.336
+epa_daily,1,4,pooled,ridge_tuned,{'alpha': 1000.0},3.473
+epa_daily,1,4,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",3.983
+epa_daily,3,0,pooled,ridge_tuned,{'alpha': 100000.0},4.635
+epa_daily,3,0,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",4.506
+epa_daily,3,3,pooled,ridge_tuned,{'alpha': 100000.0},4.693
+epa_daily,3,3,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",4.357
+epa_daily,3,4,pooled,ridge_tuned,{'alpha': 100000.0},4.331
+epa_daily,3,4,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",4.159
+epa_daily,7,0,pooled,ridge_tuned,{'alpha': 100000.0},4.812
+epa_daily,7,0,pooled,forest_tuned,"{'min_samples_leaf': 5, 'max_features': 0.33}",4.862
+epa_daily,7,3,pooled,ridge_tuned,{'alpha': 100000.0},5.009
+epa_daily,7,3,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",4.855
+epa_daily,7,4,pooled,ridge_tuned,{'alpha': 100000.0},4.399
+epa_daily,7,4,pooled,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",4.102
+openaq,1,0,2178,ridge_tuned,{'alpha': 100.0},0.979
+openaq,1,0,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",1.004
+openaq,1,1,2178,ridge_tuned,{'alpha': 1000.0},0.78
+openaq,1,1,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",0.617
+openaq,1,2,2178,ridge_tuned,{'alpha': 100.0},0.974
+openaq,1,2,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",0.941
+openaq,1,3,2178,ridge_tuned,{'alpha': 10.0},1.017
+openaq,1,3,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",0.975
+openaq,1,4,2178,ridge_tuned,{'alpha': 0.1},1.013
+openaq,1,4,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 1.0}",1.015
+openaq,6,0,2178,ridge_tuned,{'alpha': 1000.0},2.205
+openaq,6,0,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",1.978
+openaq,6,1,2178,ridge_tuned,{'alpha': 1000.0},1.281
+openaq,6,1,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",1.566
+openaq,6,2,2178,ridge_tuned,{'alpha': 1000.0},1.779
+openaq,6,2,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",1.91
+openaq,6,3,2178,ridge_tuned,{'alpha': 10000.0},2.141
+openaq,6,3,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",2.101
+openaq,6,4,2178,ridge_tuned,{'alpha': 1000.0},2.175
+openaq,6,4,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",2.204
+openaq,24,0,2178,ridge_tuned,{'alpha': 1000.0},2.328
+openaq,24,0,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",2.299
+openaq,24,1,2178,ridge_tuned,{'alpha': 1000.0},1.511
+openaq,24,1,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",1.457
+openaq,24,2,2178,ridge_tuned,{'alpha': 1000.0},1.809
+openaq,24,2,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",1.808
+openaq,24,3,2178,ridge_tuned,{'alpha': 10000.0},2.26
+openaq,24,3,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",2.302
+openaq,24,4,2178,ridge_tuned,{'alpha': 10000.0},2.439
+openaq,24,4,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",2.571
+openaq,48,0,2178,ridge_tuned,{'alpha': 10000.0},2.538
+openaq,48,0,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",2.532
+openaq,48,1,2178,ridge_tuned,{'alpha': 1000.0},1.672
+openaq,48,1,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",1.66
+openaq,48,2,2178,ridge_tuned,{'alpha': 10000.0},1.929
+openaq,48,2,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",1.827
+openaq,48,3,2178,ridge_tuned,{'alpha': 10000.0},2.434
+openaq,48,3,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",2.432
+openaq,48,4,2178,ridge_tuned,{'alpha': 10000.0},2.585
+openaq,48,4,2178,forest_tuned,"{'min_samples_leaf': 20, 'max_features': 0.33}",2.912

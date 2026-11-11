@@ -1,0 +1,37 @@
+﻿cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "pm25-benchmark: a leakage-safe benchmark toolkit for PM2.5 forecasting"
+abstract: >-
+  A Python toolkit that downloads, cleans and aligns open air-quality
+  datasets and runs leakage-safe PM2.5 forecasting benchmarks: persistence,
+  seasonal and trailing-mean baselines against ridge regression and random
+  forests, with chronological splits, a purge gap, rolling-origin
+  evaluation and block-bootstrap confidence intervals.
+version: 1.0.0
+date-released: "2026-11-11"
+license: MIT
+repository-code: "https://github.com/saravananjask/pm25-benchmark"
+url: "https://github.com/saravananjask/pm25-benchmark"
+# doi: "10.5281/zenodo.XXXXXXX"   # add the Zenodo version DOI after the release
+authors:
+  - family-names: "Srinivasan"
+    given-names: "Saravanan"
+    affiliation: "SRM Institute of Science and Technology, Ramapuram, Chennai, India"
+    orcid: "https://orcid.org/0000-0001-7884-3532"
+  - family-names: "Tanguturi"
+    given-names: "Rama Chaithanya"
+    affiliation: "SRM Institute of Science and Technology, Ramapuram, Chennai, India"
+  - family-names: "S.M"
+    given-names: "Prabin"
+    affiliation: "Vellore Institute of Technology, Vellore, India"
+  - family-names: "K R"
+    given-names: "Aravind Britto"
+    affiliation: "PSNA College of Engineering and Technology, Dindigul, India"
+keywords:
+  - PM2.5
+  - air quality
+  - time-series forecasting
+  - data leakage
+  - benchmark
+  - reproducibility

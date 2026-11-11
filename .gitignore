@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# raw data is never committed; see DATA.md
+Dataset/
+data/
+*.zip
+*.parquet
+*.dly
