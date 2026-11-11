@@ -13,7 +13,7 @@ date-released: "2026-11-11"
 license: MIT
 repository-code: "https://github.com/saravananjask/pm25-benchmark"
 url: "https://github.com/saravananjask/pm25-benchmark"
-# doi: "10.5281/zenodo.XXXXXXX"   # add the Zenodo version DOI after the release
+doi: "10.5281/zenodo.24124034"
 authors:
   - family-names: "Srinivasan"
     given-names: "Saravanan"
