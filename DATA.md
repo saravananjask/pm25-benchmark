@@ -22,4 +22,16 @@ column), EEA annual averages (`*.parquet`), NOAA GHCN-Daily (`*.dly`).
 Run `python scripts/checksums.py "<data folder>"` and compare with the table below, so that
 others can check they hold the same files.
 
-(paste the checksum table here)
+| dataset | file or folder | SHA-256 |
+| --- | --- | --- |
+| beijing_multisite | beijing+multi+site+air+quality+data.zip | b04da438b2f331ac0ffd45aebdfec0d20d2367feb5f6948c4b1f7ce1191e33c4 |
+| beijing_pm25 | beijing+pm2+5+data.zip | 40cdd29c24918e855133dce280ff59779bb0b5852898e05bafcf422a4cc0a175 |
+| five_cities | pm2+5+data+of+five+chinese+cities | 892ddf419757b933993b479395a02433539e193017d2723db191e87a3ddaa2c2 |
+| india_city_day | archive.zip | 4ce4e048e6698b277b6d8f14d830c1f7434769416302dcdbab4f0826ee750ff9 |
+| epa_daily | daily_88101_2023.zip | 4b40502e8147419643a1120c666c4aa952633094f21f65475844172bcc78833b |
+| openaq | data | 1909648a69665163bc8b7d2f3732b7d257c4a1a3b5ede5dc2d7025ae8deaeac5 |
+
+Folder checksums (five_cities, openaq) hash every file's relative path and SHA-256, sorted.
+
+The final-run result file `results/multibench_results.csv` has SHA-256
+`58F3F38B515FAB6593050C0AEB5EF7D780DF089D1521F5A917989CB0A050E4B2`.
